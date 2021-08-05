@@ -143,7 +143,8 @@
       var distance = dist(posX, posY, posXcross, posYcross);
       if (distance >= minLength) {
         strokeWeight(2);
-        stroke(col, 100, 100);
+        // stroke(col, 100, 100);
+        stroke(0);
         line(posX, posY, posXcross, posYcross);
       }
 
