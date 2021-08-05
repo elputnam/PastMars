@@ -51,7 +51,7 @@
   wireframe();
   
   //bugs
-  for (i = 0; i < height*0.01; i++){
+  // for (i = 0; i < height*0.01; i++){
     // noFill();
     // stroke(random(70,120), random(100), random(100));
     push();
@@ -96,7 +96,7 @@
       y *= -1;
     }
   }
-}
+// }
  
  function wireframe(){
   //  var speed = int(map(mouseX, 0, width, 0, 20));
