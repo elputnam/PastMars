@@ -50,7 +50,8 @@
 
   wireframe();
   
-  //bugs
+/*
+  //abugs
   // for (i = 0; i < height*0.01; i++){
     // noFill();
     // stroke(random(70,120), random(100), random(100));
@@ -95,7 +96,7 @@
       x *= -1;
       y *= -1;
     }
-  }
+  }*/
 }
  
  function wireframe(){
