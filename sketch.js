@@ -96,7 +96,7 @@
       y *= -1;
     }
   }
-// }
+}
  
  function wireframe(){
   //  var speed = int(map(mouseX, 0, width, 0, 20));
