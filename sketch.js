@@ -35,7 +35,7 @@
  }
  
  function draw() {
-  background(255, 1)
+  //background(255, 1)
   
   //frame
   strokeWeight(10);
